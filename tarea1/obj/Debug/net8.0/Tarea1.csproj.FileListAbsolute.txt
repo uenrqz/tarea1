@@ -1,0 +1,15 @@
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/bin/Debug/net8.0/Tarea1
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/bin/Debug/net8.0/Tarea1.deps.json
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/bin/Debug/net8.0/Tarea1.runtimeconfig.json
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/bin/Debug/net8.0/Tarea1.dll
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/bin/Debug/net8.0/Tarea1.pdb
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/obj/Debug/net8.0/Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/obj/Debug/net8.0/Tarea1.AssemblyInfoInputs.cache
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/obj/Debug/net8.0/Tarea1.AssemblyInfo.cs
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/obj/Debug/net8.0/Tarea1.csproj.CoreCompileInputs.cache
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/obj/Debug/net8.0/Tarea1.sourcelink.json
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/obj/Debug/net8.0/Tarea1.dll
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/obj/Debug/net8.0/refint/Tarea1.dll
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/obj/Debug/net8.0/Tarea1.pdb
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/obj/Debug/net8.0/Tarea1.genruntimeconfig.cache
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/tarea1/tarea1/obj/Debug/net8.0/ref/Tarea1.dll
