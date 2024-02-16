@@ -200,7 +200,7 @@ class Program
                     break;
             }
 
-            Console.WriteLine(); // Añadir una línea en blanco para mejorar la legibilidad
+            Console.WriteLine();
         }
     }
 }
